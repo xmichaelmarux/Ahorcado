@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\proyectos\AhorcadoJuego\AhorcadoJuego\bin\Debug\net7.0\AhorcadoJuego.exe
+C:\Users\maico\Documents\proyectos\AhorcadoJuego\AhorcadoJuego\bin\Debug\net7.0\AhorcadoJuego.deps.json
+C:\Users\maico\Documents\proyectos\AhorcadoJuego\AhorcadoJuego\bin\Debug\net7.0\AhorcadoJuego.runtimeconfig.json
+C:\Users\maico\Documents\proyectos\AhorcadoJuego\AhorcadoJuego\bin\Debug\net7.0\AhorcadoJuego.dll
+C:\Users\maico\Documents\proyectos\AhorcadoJuego\AhorcadoJuego\bin\Debug\net7.0\AhorcadoJuego.pdb
+C:\Users\maico\Documents\proyectos\AhorcadoJuego\AhorcadoJuego\obj\Debug\net7.0\AhorcadoJuego.csproj.AssemblyReference.cache
+C:\Users\maico\Documents\proyectos\AhorcadoJuego\AhorcadoJuego\obj\Debug\net7.0\AhorcadoJuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\proyectos\AhorcadoJuego\AhorcadoJuego\obj\Debug\net7.0\AhorcadoJuego.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\proyectos\AhorcadoJuego\AhorcadoJuego\obj\Debug\net7.0\AhorcadoJuego.AssemblyInfo.cs
+C:\Users\maico\Documents\proyectos\AhorcadoJuego\AhorcadoJuego\obj\Debug\net7.0\AhorcadoJuego.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\proyectos\AhorcadoJuego\AhorcadoJuego\obj\Debug\net7.0\AhorcadoJuego.dll
+C:\Users\maico\Documents\proyectos\AhorcadoJuego\AhorcadoJuego\obj\Debug\net7.0\refint\AhorcadoJuego.dll
+C:\Users\maico\Documents\proyectos\AhorcadoJuego\AhorcadoJuego\obj\Debug\net7.0\AhorcadoJuego.pdb
+C:\Users\maico\Documents\proyectos\AhorcadoJuego\AhorcadoJuego\obj\Debug\net7.0\AhorcadoJuego.genruntimeconfig.cache
+C:\Users\maico\Documents\proyectos\AhorcadoJuego\AhorcadoJuego\obj\Debug\net7.0\ref\AhorcadoJuego.dll
